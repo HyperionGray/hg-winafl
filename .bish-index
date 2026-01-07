@@ -1,0 +1,15 @@
+./config.py
+./googlespider/setup.py
+./googlespider/README.md
+./helper.py
+./AGENTS.md
+./README.md
+./__init__.py
+./winafl/readme_syzygy.md
+./winafl/README.md
+./winafl/winafl-plot.py
+./winafl/CONTRIBUTING.md
+./winafl/winafl-whatsup.py
+./winafl/winafl-cmin.py
+./winafl/readme_pt.md
+./winafl/readme_dr.md

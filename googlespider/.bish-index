@@ -1,0 +1,7 @@
+./setup.py
+./googlespider/config.py
+./googlespider/command_line.py
+./googlespider/spider.py
+./googlespider/__init__.py
+./googlespider/parser.py
+./README.md
